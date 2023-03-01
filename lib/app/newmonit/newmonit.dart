@@ -31,10 +31,6 @@ class newmonit extends StatelessWidget {
                 'Michał Krysiński',
                 style: GoogleFonts.openSans(fontSize: 25, color: Colors.black),
               ),
-              Text(
-                'Flutter developer',
-                style: GoogleFonts.openSans(fontSize: 25, color: Colors.black),
-              ),
               const SizedBox(height: 65),
               const CircleAvatar(
                 backgroundImage: AssetImage('images/poczta.png'),

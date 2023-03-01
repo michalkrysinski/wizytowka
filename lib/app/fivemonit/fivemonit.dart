@@ -35,7 +35,7 @@ class fivemonit extends StatelessWidget {
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
               ),
               Text(
-                'motoryzacja, sport, biznes, gotowanie,',
+                'motoryzacja, sport, biznes, gotowanie, programowanie,',
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
               ),
               Text(
@@ -44,25 +44,16 @@ class fivemonit extends StatelessWidget {
               ),
               const SizedBox(height: 30),
               Text(
-                'Czasami, lecz rzadko lubię też pograć w jakieś gry.',
+                'Czasami lubię też pograć w jakieś gry.',
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
               ),
               Text(
-                'Myślę, że wiedźmin jest jedną z moich ulubionych serii gier.',
-                style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
-              ),
-              const SizedBox(height: 30),
-              Text(
-                'Wieczorami chętnie zasiadam przy Netflixie',
-                style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
-              ),
-              Text(
-                'razem z moją partnerką.',
+                'Wiedźmin 3 jest jedną z moich ulubionych gier.',
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
               ),
               const SizedBox(height: 30),
               Text(
-                'Zapomniałbym, kalistenika jest czymś co towarzyszy mi od',
+                'Kalistenika jest czymś co towarzyszy mi od',
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
               ),
               Text(

@@ -32,15 +32,11 @@ class threemonit extends StatelessWidget {
               ),
               const SizedBox(height: 50),
               Text(
-                'Nazywam się Michał Krysiński, mam 21 lat.',
+                'Nazywam się Michał Krysiński, mam 22 lata.',
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
               ),
               Text(
                 'Aktualnie mieszkam w Warszawie.',
-                style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
-              ),
-              Text(
-                'Mieszkam tutaj, uczę się oraz pracuję.',
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
               ),
               Text(
@@ -62,20 +58,6 @@ class threemonit extends StatelessWidget {
               Text(
                 'Flutter jest tym, w czym chcę się rozwijać',
                 style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
-              ),
-              Text(
-                'i chcę być jednym z najlepszych Flutter developerów.',
-                style: GoogleFonts.lato(fontSize: 15, color: Colors.black),
-              ),
-              const SizedBox(height: 20),
-              Text(
-                'Jestem bardzo zmotywowany',
-                style: GoogleFonts.coveredByYourGrace(
-                    fontSize: 20, color: Colors.black),
-              ),
-              Text(
-                'aby dostać pierwszą pracę jako Flutter developer',
-                style: GoogleFonts.lato(fontSize: 16, color: Colors.black),
               ),
               Text(
                 'i stale się rozwijać.',
